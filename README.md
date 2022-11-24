@@ -14,6 +14,8 @@ The IoT Meta-Control Firewall (IMCF) is an innovative system architecture and ap
 
 In case you have any publications resulting from the IMCF platform, please cite the following paper(s):
 
+- "Green Planning of IoT Home Automation Workflows in Smart Buildings", Soteris Constantinou, Andreas Konstantinides, Panos K. Chrysanthis and Demetrios Zeinalipour-Yazti, ACM Transactions on Internet of Things (TIOT'22), ACM, Vol. 3, Iss. 4, pp. 1--30, New York, NY, USA, DOI: 10.1145/3549549, 2022. Download: https://www.cs.ucy.ac.cy/~dzeina/papers/tiot22-gp.pdf
+
 - "The IoT Meta-Control Firewall", Soteris Constantinou, Andreas Konstantinidis, Demetrios Zeinalipour-Yazti, Panos K. Chrysanthis, 37th IEEE International Conference on Data Engineering (ICDE '21), IEEE Computer Society, ISBN:, pp. 12 pages, April 19 - April 22, 2021, Chania, Crete, 2021. Download: https://www.cs.ucy.ac.cy/~dzeina/papers/icde21-imcf.pdf
 
 - "IMCF: The IoT Meta-Control Firewall for Smart Buildings", Soteris Constantinou, Antonis Vasileiou, Andreas Konstantinidis, Panos K. Chrysanthis, Demetrios Zeinalipour-Yazti, 24th International Conference on Extending Database Technology (EDBT '21), OpenProceedings.org, pp. 658--661, March 23 - March 26, 2021, Nicosia, Cyprus, 2021. Download: https://www.cs.ucy.ac.cy/~dzeina/papers/edbt21-imcf-demo.pdf
@@ -48,10 +50,10 @@ The Source code for the IMCF Laravel PHP web framework following the
 model–view–controller architectural pattern. Lead Developer: Soteris Constantinou. 
 
 ### Datasets
-Anonymized measurements from a real residential apartment that comprises of a variety of sensors, submeters and readings. These
+- Anonymized measurements from a real residential apartment that comprises of a variety of sensors, submeters and readings. These
 are real datasets of residential data collected by the “Center for Advanced Studies in Adaptive Systems” (CASAS) at Washington State University (http://casas.wsu.edu/datasets/). CASAS serves to meet research needs around testing of the technologies using real data through the use of a smart
 homes environment located on the WSU Pullman campus.
-The real weather forecast dataset was acquired using Weather API on the OpenWeatherMap website and contains ∼ 5 years (2012-2017) of high temporal resolution data based on hourly measurements of various weather attributes, such as temperature, humidity, air pressure, weather description, wind direction and speed (https://openweathermap.org/api).
+- The real weather forecast dataset was acquired using Weather API on the OpenWeatherMap website and contains ∼ 5 years (2012-2017) of high temporal resolution data based on hourly measurements of various weather attributes, such as temperature, humidity, air pressure, weather description, wind direction and speed (https://openweathermap.org/api).
 
 
 Project Leader: Demetris Zeinalipour
